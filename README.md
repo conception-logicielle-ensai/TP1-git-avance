@@ -14,6 +14,3 @@ exemple
 git checkout ex1
 ```
 
-## Lancer dans un environnement linux (Gitpod)
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://gitlab.com/conception-logicielle/tp1-conception-logicielle)
